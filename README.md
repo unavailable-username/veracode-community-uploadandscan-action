@@ -1,3 +1,6 @@
+## THIS PROJECT HAS BEEN FORKED AND THE FORK IS BEING MAINTAINED BY VERACODE
+## https://github.com/veracode/veracode-uploadandscan-action
+
 # Veracode Community-Built Upload And Scan Action
 
 This action runs the Veracode Java Wrapper's 'upload and scan' action.
